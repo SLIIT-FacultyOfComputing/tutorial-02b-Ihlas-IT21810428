@@ -18,6 +18,6 @@ int main()
         fac = fac * r;
     }
 
-    printf("Factorial of %d is %ld\n", no, fac);  
+    cout << "Factorial of " << no << " is " << fac << endl;  
     return 0;
 }
